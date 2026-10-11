@@ -207,6 +207,7 @@ Experimental, written and tested by community members on their own machines:
 - **Older graphics cards** (Tesla P40 / V100, GTX 10, Radeon VII / MI50, RX 6700 XT, RX 5500 XT): [Older GPUs](docs/OLDER_GPUS.md).
 - **Intel Arc**, built from source on Linux: [Intel Arc](docs/INTEL_ARC.md).
 - **AMD Ryzen AI Max (Strix Halo)**, built from source on Linux: [Strix Halo](docs/STRIX_HALO.md).
+- **AMD Ryzen AI 300 (Strix Point, Radeon 890M / 880M)**, built from source on Linux, not yet run on a real chip: [Strix Point](docs/STRIX_POINT.md).
 - **Older processors without AVX2**: they work, but slowly. [Older CPUs](docs/INSTALL.md#older-cpus-experimental).
 
 The full list: [docs/INSTALL.md](docs/INSTALL.md#what-you-need).
